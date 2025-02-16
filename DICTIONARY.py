@@ -31,5 +31,5 @@ DATA = {
 "VECTOR": "A quantity that has both magnitude and direction" ,
 }
 
-a = input("In engineerinv terms, what is the definition of")
+a = input("In engineeringterms, what is the definition of")
 print(DATA[a])
